@@ -1,14 +1,18 @@
 <div align="center">
  
-  <!-- HEADER: Switched to "Typing SVG" for reliable animation -->
-  <!-- It types out your roles automatically. Looks very professional/hacker style. -->
-  <h1>Mikhail Maksimov</h1>
+  <!-- Header: Name + Waving Hand Animation -->
+  <h1>
+    Hi, I'm Mikhail Maksimov 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave">
+  </h1>
+
+  <!-- Typing SVG Animation (Lightweight & Cool) -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Co-Founder+%26+Creative+Director;Lead+Developer+%40+Davilkus+Games;Fullstack+Game+Dev+from+Moscow" alt="Typing SVG" />
   </a>
 
   <p>
-     18 y/o • He/Him • 🇷🇺 Moscow, Russia
+     19 y/o • He/Him • 🇷🇺 Moscow, Russia
   </p>
 
   <p>
@@ -37,7 +41,7 @@
 <hr>
 <br>
 
-<!-- SECTION: Tech Stack (Compressed Table Layout) -->
+<!-- SECTION: Tech Stack (Table Layout) -->
 <h2 align="center">🛠️ Technical Arsenal</h2>
 
 <table align="center">
@@ -148,7 +152,7 @@
   
   <br><br>
   
-  <!-- Yandex Section Redesigned -->
+  <!-- Yandex Section -->
   <img src="https://img.shields.io/badge/Yandex_Games-Profiles-FC3F1D?style=for-the-badge&logo=yandex&logoColor=white">
   <br>
   <a href="https://yandex.ru/games/developer/131334"><img src="https://img.shields.io/badge/Davilkus_Games-Main-black?style=flat-square&logo=yandex&logoColor=FC3F1D"></a>
@@ -160,7 +164,37 @@
 <hr>
 <br>
 
-<!-- GitHub Stats: Added flags to prevent timeouts and cache issues -->
+<!-- GitHub Stats: Language Bars RESTORED -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davilkus-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&disable_animations=true&hide_rank=true" height="180" alt="Davilkus Stats" />
-  <img src="https://github
+  <img src="https://github-readme-stats.vercel.app/api?username=davilkus-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="Davilkus Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davilkus-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="Languages" />
+</div>
+
+<br>
+
+<h2 align="center">🌐 Connect</h2>
+
+<div align="center">
+  <a href="mailto:davilkusgames@gmail.com">
+    <img src="https://img.shields.io/badge/Email-davilkusgames%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="http://t.me/michaelmaksimov">
+    <img src="https://img.shields.io/badge/Telegram-%40michaelmaksimov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://davilkusgames.com/#contact">
+    <img src="https://img.shields.io/badge/Contact_Form-Website-black?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Contact Form" />
+  </a>
+</div>
+
+<br>
+<hr>
+
+<!-- Footer with Logo, 2026 Copyright, and Retro Visitor Counter -->
+<div align="center">
+  <img src="https://github.com/davilkus-dev/davilkus-dev/blob/main/dg_logo.webp?raw=true" width="50" alt="DG">
+  <br>
+  <sub>© 2026 Davilkus Games</sub>
+  <br><br>
+  <!-- Retro Visitor Counter Animation -->
+  <img src="https://komarev.com/ghpvc/?username=davilkus-dev&label=PROFILE+VIEWS&style=flat-square&color=blue" alt="Profile Views" />
+</div>
