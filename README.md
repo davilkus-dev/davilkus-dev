@@ -1,8 +1,8 @@
 <div align="center">
  
-  <!-- You can replace this image with the Davilkus Games logo if you host it on the repo -->
+  <!-- Header with fixed spacing -->
   <a href="https://davilkusgames.com/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=200&section=header&text=Mikhail%20Maksimov&fontSize=70&fontColor=ffffff&desc=Creative%20Director%20@%20Davilkus%20Games&descSize=25&descAlign=50&descAlignY=60&animation=fadeIn" alt="Mikhail Maksimov Header" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=280&section=header&text=Mikhail%20Maksimov&fontSize=70&fontColor=ffffff&desc=Creative%20Director%20@%20Davilkus%20Games&descSize=25&descAlign=50&descAlignY=75&animation=fadeIn" alt="Mikhail Maksimov Header" width="100%"/>
   </a>
 
   <h3>
@@ -31,7 +31,8 @@
 <div align="center">
   
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <!-- Fixed C# Badge -->
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -65,7 +66,8 @@
 
 <br>
 
-<!-- GitHub Stats - Dark Mode to match Davilkus Games aesthetic -->
+<!-- GitHub Stats -->
+<!-- If these show 'Fetching Error', it's because the account is new or the API is timing out. It usually fixes itself in 10 minutes. -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davilkus-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="Davilkus Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davilkus-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="Languages" />
@@ -90,9 +92,15 @@
 </div>
 
 <br>
+<hr>
 
+<!-- Footer with Logo aligned to text -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DavilkusGames/DavilkusGames/main/logo.png" width="50" alt="Davilkus Logo"> <!-- If you have a logo hosted, put URL here, otherwise remove this line -->
+  <a href="https://davilkusgames.com/">
+    <img src="https://davilkusgames.com/assets/logo.webp" width="40" style="vertical-align:middle; margin-right: 10px;" alt="Davilkus Logo">
+    <span style="font-size: 20px; vertical-align:middle; font-weight: bold; color: white;">Davilkus Games</span>
+  </a>
+  <br>
   <br>
   <sub>© 2025 Davilkus Games</sub>
 </div>
