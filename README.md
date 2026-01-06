@@ -2,13 +2,13 @@
 
 <div align="center">
  
-  <!-- Header: Adjusted to reduce black space and center text -->
+  <!-- Header: Increased height to 260 to create padding under text -->
   <a href="https://davilkusgames.com/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=220&section=header&text=Mikhail%20Maksimov&fontSize=70&fontColor=ffffff&desc=Creative%20Director%20%40%20Davilkus%20Games&descSize=25&descAlign=50&descAlignY=80&animation=fadeIn" alt="Mikhail Maksimov Header" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=260&section=header&text=Mikhail%20Maksimov&fontSize=70&fontColor=ffffff&desc=Co-Founder%20%26%20Creative%20Director&descSize=25&descAlign=50&descAlignY=65&animation=fadeIn" alt="Mikhail Maksimov Header" width="100%"/>
   </a>
 
   <h3>
-    👨‍💻 Creative Director & Lead Developer
+    👨‍💻 Co-Founder & Creative Director
   </h3>
   
   <p>
@@ -16,7 +16,7 @@
   </p>
 
   <p>
-    I am a <b>Fullstack Developer</b> and Co-Founder of <a href="https://github.com/DavilkusGames"><b>Davilkus Games</b></a>. <br>
+    I am a <b>Fullstack Developer</b> at <a href="https://github.com/DavilkusGames"><b>Davilkus Games</b></a>. <br>
     Specializing in <b>Game Development</b>, Low-level Systems, Networking, and Graphics Programming.
   </p>
 
@@ -27,6 +27,21 @@
 
 <br>
 
+<!-- SECTION: The Team (Moved Top & Redesigned) -->
+<h2 align="center">🫂 The Core Team</h2>
+<div align="center">
+  <!-- Style changed to flat-square to look different from Tech Stack -->
+  <a href="https://github.com/TheMazer"><img src="https://img.shields.io/badge/The_Mazer-Art_Director_%26_Lead_Dev-70238c?style=flat-square&logo=github&logoColor=white"></a>
+  &nbsp;
+  <a href="https://github.com/BurgerKerman"><img src="https://img.shields.io/badge/BurgerKerman-Composer_%26_Audio-E87D0D?style=flat-square&logo=github&logoColor=white"></a>
+  &nbsp;
+  <a href="https://github.com/PayLife"><img src="https://img.shields.io/badge/Haalo-Community_Manager-5865F2?style=flat-square&logo=discord&logoColor=white"></a>
+</div>
+
+<br>
+<hr>
+<br>
+
 <!-- Tech Stack Section -->
 <h2 align="center">🛠️ Tech Stack & Arsenal</h2>
 
@@ -34,7 +49,8 @@
 
   <!-- SECTION: Languages -->
   <h3>Languages</h3>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <!-- C# Fixed: Removed .svg extension and cleaned encoding -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -51,10 +67,9 @@
   <!-- SECTION: Game Engines -->
   <h3>Engines & Frameworks</h3>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal_Engine_4-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/UDK_(UE3)-black?style=for-the-badge&logo=unrealengine&logoColor=gray" />
   <img src="https://img.shields.io/badge/MonoGame-E73C00?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal_Engine_4-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/UDK_(UE3)-black?style=for-the-badge&logo=unrealengine&logoColor=gray" />
   <img src="https://img.shields.io/badge/Raylib-white?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/SDL2-233c56?style=for-the-badge&logo=sdl&logoColor=white" />
   <img src="https://img.shields.io/badge/PyGame-333333?style=for-the-badge&logo=python&logoColor=white" />
@@ -131,14 +146,7 @@
 </div>
 
 <br>
-
-<h2 align="center">🫂 The Team</h2>
-<div align="center">
-  <a href="https://github.com/TheMazer"><img src="https://img.shields.io/badge/The_Mazer-Art_Director_%26_Dev-purple?style=for-the-badge&logo=github"></a>
-  <a href="https://github.com/BurgerKerman"><img src="https://img.shields.io/badge/BurgerKerman-Composer-orange?style=for-the-badge&logo=github"></a>
-  <a href="https://github.com/PayLife"><img src="https://img.shields.io/badge/Haalo-Community_Manager-blue?style=for-the-badge&logo=discord"></a>
-</div>
-
+<hr>
 <br>
 
 <h2 align="center">🎮 Our Games & Stores</h2>
@@ -157,6 +165,8 @@
   <a href="https://yandex.ru/games/developer/62555"><b>[1Pixel Games]</b></a>
 </div>
 
+<br>
+<hr>
 <br>
 
 <!-- GitHub Stats -->
@@ -184,14 +194,12 @@
 <br>
 <hr>
 
-<!-- Footer with Repo-hosted Logo aligned to text -->
+<!-- Footer with Repo-hosted Logo aligned to text (No Link) -->
 <div align="center">
-  <a href="https://github.com/DavilkusGames">
     <!-- Using raw=true to fetch the image directly from your repo -->
-    <img src="https://github.com/davilkus-dev/davilkus-dev/blob/main/dg_logo.webp?raw=true" width="45" style="vertical-align:middle; margin-right: 15px;" alt="DG">
-    <span style="font-size: 22px; vertical-align:middle; font-weight: bold; color: white;">Davilkus Games</span>
-  </a>
+    <img src="https://github.com/davilkus-dev/davilkus-dev/blob/main/dg_logo.webp?raw=true" width="45" style="vertical-align: middle; margin-right: 15px;" alt="DG">
+    <span style="font-size: 22px; font-weight: bold; color: white; vertical-align: middle;">Davilkus Games</span>
   <br>
   <br>
-  <sub>© 2025 Davilkus Games</sub>
+  <sub>© 2026 Davilkus Games</sub>
 </div>
