@@ -2,10 +2,8 @@
 
 <div align="center">
  
-  <!-- Header: Increased height to 260 to create padding under text -->
-  <a href="https://davilkusgames.com/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=260&section=header&text=Mikhail%20Maksimov&fontSize=70&fontColor=ffffff&desc=Co-Founder%20%26%20Creative%20Director&descSize=25&descAlign=50&descAlignY=65&animation=fadeIn" alt="Mikhail Maksimov Header" width="100%"/>
-  </a>
+  <!-- Header: Image only (Not a link) with padding preserved -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=260&section=header&text=Mikhail%20Maksimov&fontSize=70&fontColor=ffffff&desc=Co-Founder%20%26%20Creative%20Director&descSize=25&descAlign=50&descAlignY=65&animation=fadeIn" alt="Mikhail Maksimov Header" width="100%"/>
 
   <h3>
     👨‍💻 Co-Founder & Creative Director
@@ -27,10 +25,9 @@
 
 <br>
 
-<!-- SECTION: The Team (Moved Top & Redesigned) -->
+<!-- SECTION: The Team -->
 <h2 align="center">🫂 The Core Team</h2>
 <div align="center">
-  <!-- Style changed to flat-square to look different from Tech Stack -->
   <a href="https://github.com/TheMazer"><img src="https://img.shields.io/badge/The_Mazer-Art_Director_%26_Lead_Dev-70238c?style=flat-square&logo=github&logoColor=white"></a>
   &nbsp;
   <a href="https://github.com/BurgerKerman"><img src="https://img.shields.io/badge/BurgerKerman-Composer_%26_Audio-E87D0D?style=flat-square&logo=github&logoColor=white"></a>
@@ -49,7 +46,6 @@
 
   <!-- SECTION: Languages -->
   <h3>Languages</h3>
-  <!-- C# Fixed: Removed .svg extension and cleaned encoding -->
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -157,12 +153,12 @@
   
   <br><br>
   
-  <!-- Yandex Section -->
+  <!-- Yandex Section Redesigned: Clean Badges -->
   <img src="https://img.shields.io/badge/Yandex_Games-Profiles-FC3F1D?style=for-the-badge&logo=yandex&logoColor=white">
   <br>
-  <a href="https://yandex.ru/games/developer/131334"><b>[Davilkus Games]</b></a> • 
-  <a href="https://yandex.ru/games/developer/88490"><b>[Omega Studio]</b></a> • 
-  <a href="https://yandex.ru/games/developer/62555"><b>[1Pixel Games]</b></a>
+  <a href="https://yandex.ru/games/developer/131334"><img src="https://img.shields.io/badge/Davilkus_Games-Main-black?style=flat-square&logo=yandex&logoColor=FC3F1D"></a>
+  <a href="https://yandex.ru/games/developer/88490"><img src="https://img.shields.io/badge/Omega_Studio-The_Mazer-black?style=flat-square&logo=yandex&logoColor=FC3F1D"></a>
+  <a href="https://yandex.ru/games/developer/62555"><img src="https://img.shields.io/badge/1Pixel_Games-Legacy-black?style=flat-square&logo=yandex&logoColor=FC3F1D"></a>
 </div>
 
 <br>
@@ -194,12 +190,9 @@
 <br>
 <hr>
 
-<!-- Footer with Repo-hosted Logo aligned to text (No Link) -->
+<!-- Footer: Logo Only & Copyright -->
 <div align="center">
-    <!-- Using raw=true to fetch the image directly from your repo -->
-    <img src="https://github.com/davilkus-dev/davilkus-dev/blob/main/dg_logo.webp?raw=true" width="45" style="vertical-align: middle; margin-right: 15px;" alt="DG">
-    <span style="font-size: 22px; font-weight: bold; color: white; vertical-align: middle;">Davilkus Games</span>
-  <br>
+    <img src="https://github.com/davilkus-dev/davilkus-dev/blob/main/dg_logo.webp?raw=true" width="50" alt="DG">
   <br>
   <sub>© 2026 Davilkus Games</sub>
 </div>
